@@ -12,6 +12,8 @@ Each Project folder will hold the following
 * A README.md file that will describe in detail every aspect of the project's functionalities. 
 * Another folder, called Dependencies, that will hold any files required for the Program to run
   * If there are no Dependencies, this folder will be absent
+  * Dependency examples would be photos.
+  * It is likely no program will have a dependency folder
 
 
 ## Unnamed Morning Organizer Application (D)
