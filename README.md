@@ -34,6 +34,7 @@ This Project is another personal application that is not yet in development. Its
 This project is for a simple discord bot for my friends and I. It's purpose is likely to be ever changing, based on what friends request to be implimented. Currently its goals are as follows.
   * Functionality for Pokemon base stat information upon user commands
   * Youtube Music and other Content broadcasted to a Discord voice call
+  * Functionality for signaling for an embed that shows a in game and callout version of Destiny 2 PvP maps
   * Inside jokes between my friends and I
   * Basic Discord bot actions
      * Purge messages in a channel
