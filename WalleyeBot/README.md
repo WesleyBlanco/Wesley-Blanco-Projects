@@ -20,6 +20,8 @@ a Purge command that purges the last X messages in the discord channel, where X 
 ### Music
 This bot can !play content from a youtube video. This uses the Youtube_DL library to search for a video and then play it in the discord voice channel or add it to the queue to be played. It can also skip the current content and leave the voice channel (which resets the queue).
 
+### D2
+This command when used with the first word of a Destiny 2 PvP map will return the visual photo of the map and a callout version of the map. 
 
 ## Acknowledgements
 This bot uses a pokemons.json file that was taken from the following public github directory: https://github.com/joseluisq/pokemons
