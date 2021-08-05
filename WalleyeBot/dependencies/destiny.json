@@ -1,0 +1,123 @@
+{
+	"maps": [{
+		"name": "Altar of Flame",
+		"abbr": "Altar",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/2/20/Altar_of_Flame.jpg/revision/latest?cb=20180929230325",
+		"callout": "https://warmind.io/img/maps/Altar_of_Flame.jpg"
+	}, {
+		"name": "Midtown",
+		"abbr": "Midtown",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/d/d7/D2_pvp_env_03.jpg/revision/latest?cb=20170531052900",
+		"callout": "https://warmind.io/img/maps/Midtown.jpg"
+	}, {
+		"name": "Twilight Gap",
+		"abbr": "Twilight",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/1/1d/Twilight_Gap_%28Crucible%29.jpg/revision/latest?cb=20180508211439",
+		"callout": "https://warmind.io/img/maps/Twilight_Gap.jpg"
+	}, {
+		"name": "Exodus Blue",
+		"abbr": "Exodus",
+		"photo": "https://cdna.artstation.com/p/assets/images/images/034/016/740/4k/josh-markham-colonyship2-3.jpg?1611169172",
+		"callout": "https://warmind.io/img/maps/Exodus_Blue.jpg"
+	}, {
+		"name": "Wormhaven",
+		"abbr": "Wormhaven",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/2/29/Wormhaven.jpg/revision/latest?cb=20180929232721",
+		"callout": "https://warmind.io/img/maps/Wormhaven.jpg"
+	}, {
+		"name": "Javelin-4",
+		"abbr": "Javelin",
+		"photo": "https://destiny.wiki.gallery/images/f/f3/Javelin-4_Thumb.jpg",
+		"callout": "https://warmind.io/img/maps/Javelin-4.jpg"
+	}, {
+		"name": "Distant Shore",
+		"abbr": "Distant",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/0/08/Distant_Shore.jpg/revision/latest?cb=20180929231523",
+		"callout": "https://warmind.io/img/maps/Distant_Shore.jpg"
+	}, {
+		"name": "The Burnout",
+		"abbr": "Burnout",
+		"photo": "https://cdna.artstation.com/p/assets/images/images/017/373/262/large/keenan-daufelt-kd-d2-30.jpg?1555728641",
+		"callout": "https://warmind.io/img/maps/The_Burnout.jpg"
+	}, {
+		"name": "Vostok",
+		"abbr": "Vostok",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/f/fd/Vostok_%28Crucible%29.jpg/revision/latest?cb=20180506042619",
+		"callout": "https://warmind.io/img/maps/Vostok.jpg"
+	}, {
+		"name": "Endless Vale",
+		"abbr": "Endless",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/a/a7/Endless_Vale.jpg/revision/latest?cb=20180929232200",
+		"callout": "https://warmind.io/img/maps/Endless_Vale.jpg"
+	}, {
+		"name": "Widows Court",
+		"abbr": "Widows",
+		"photo": "https://www.vgr.com/wp-content/uploads/2019/07/destiny-2-shadowkeep-crucible-maps-3-1200x450.jpg",
+		"callout": "https://warmind.io/img/maps/Widows_Court.jpg"
+	}, {
+		"name": "Convergence",
+		"abbr": "Convergence",
+		"photo": "https://cdna.artstation.com/p/assets/images/images/034/016/202/4k/josh-markham-longshot2-4.jpg?1611168229",
+		"callout": "https://warmind.io/img/maps/Convergence.jpg"
+	}, {
+		"name": "Radiant Cliffs",
+		"abbr": "Radiant",
+		"photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/03/Radiant-Cliffs-Map-Destiny-2.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+		"callout": "https://warmind.io/img/maps/Radiant_Cliffs.jpg"
+	}, {
+		"name": "Rusted Lands",
+		"abbr": "Rusted",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/9/97/Rusted_Lands_%28Crucible%29.jpg/revision/latest?cb=20180508205552",
+		"callout": "https://warmind.io/img/maps/Rusted_Lands.jpg"
+	}, {
+		"name": "Emperor's Respite",
+		"abbr": "Emperors",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/7/75/Emperor%27s_Respite.jpg/revision/latest?cb=20180929231921",
+		"callout": "https://warmind.io/img/maps/Emperors_Respite.jpg"
+	}, {
+		"name": "The Dead Cliffs",
+		"abbr": "Dead",
+		"photo": "https://destiny.wiki.gallery/images/2/2f/Dead-cliffs.jpg",
+		"callout": "https://warmind.io/img/maps/The_Dead_Cliffs.jpg"
+	}, {
+		"name": "Retribution",
+		"abbr": "Retribution",
+		"photo": "https://static1.gamerantimages.com/wordpress/wp-content/uploads/2020/08/Retribution-Map-Destiny-2.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+		"callout": "https://warmind.io/img/maps/Retribution.jpg"
+	}, {
+		"name": "Cauldron",
+		"abbr": "Cauldron",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/c/ca/The_Cauldron_%28Crucible%29.jpg/revision/latest?cb=20180508214318",
+		"callout": "https://warmind.io/img/maps/Cauldron.jpg"
+	}, {
+		"name": "Pacifica",
+		"abbr": "Pacifica",
+		"photo": "https://static.wikia.nocookie.net/destinypedia/images/0/06/Pacifica.jpg/revision/latest?cb=20180929232613",
+		"callout": "https://warmind.io/img/maps/Pacifica.jpg"
+	}, {
+		"name": "The Fortress",
+		"abbr": "Fortress",
+		"photo": "https://cdna.artstation.com/p/assets/images/images/019/556/426/large/tyson-allen-hull-a.jpg?1564006638",
+		"callout": "https://warmind.io/img/maps/The_Fortress.jpg"
+	}, {
+		"name": "Legion's Gulch",
+		"abbr": "Legions",
+		"photo": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/09/07021346/vlcsnap-2017-09-07-13h51m25s990-678x381.png",
+		"callout": "https://warmind.io/img/maps/Legions_Gulch.jpg"
+	}, {
+		"name": "Eternity",
+		"abbr": "Eternity",
+		"photo": "https://static2.gamerantimages.com/wordpress/wp-content/uploads/2020/08/Eternity-Destiny-2.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+		"callout": "https://warmind.io/img/maps/Eternity.jpg"
+	}, {
+		"name": "Solitude",
+		"abbr": "Solitude",
+		"photo": "https://cdnb.artstation.com/p/assets/images/images/012/259/187/large/alexander-may-21.jpg?1533855410",
+		"callout": "https://warmind.io/img/maps/Solitude.jpg"
+	}, {
+		"name": "Meltdown",
+		"abbr": "Meltdown",
+		"photo": "https://static3.gamerantimages.com/wordpress/wp-content/uploads/2020/08/Meltdown-Destiny-2.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+		"callout": "https://warmind.io/img/maps/Meltdown.jpg"
+	}]
+}
