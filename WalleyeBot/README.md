@@ -11,10 +11,16 @@ Commands include, Walleye, Logan, Bryce, Zavala, Steve, Brandon, Luther, Luke, a
 ### General Bot Commands
 A help command that gives basic bot information and it's current version
 
-## To be implimented
-
-### Destiny API Commands
-Destiny 2's Banshee and Ada-1's mods information and Xur's Exotic weapons information
-
 ### Moderation
-Purge and Mute commands
+a Purge command that purges the last X messages in the discord channel, where X is specificed by the user.
+
+### Pokemon
+!pokemon command. This command returns a pokemon's Dex number, type, Base stat total, attack, defense, hp, special attack, special defense and speed stats. It also shows an animated sprite of the pokemon from pokemondb.net. 
+
+### Music
+This bot can !play content from a youtube video. This uses the Youtube_DL library to search for a video and then play it in the discord voice channel or add it to the queue to be played. It can also skip the current content and leave the voice channel (which resets the queue).
+
+
+## Acknowledgements
+This bot uses a pokemons.json file that was taken from the following public github directory: https://github.com/joseluisq/pokemons
+This bot's music section is heavily influenced by Youtuber "Pawel Bes"'s guide that he posted on his channel. 
