@@ -6,6 +6,15 @@ class responses(commands.Cog):
     def __init___(self, client):
         self.client = client
 
+    @commands.command()
+    @commands.has_permissions(manage_messages=True)
+    async def purge(self, ctx, arg):
+        try:
+            fixer = int(arg) + 1
+        except ValueError:
+            ctx.send("Thats not a valid number")
+            return
+        await ctx.channel.purge(limit=fixer)
 
     #Commands for myself
     @commands.command(aliases=['walleye', 'wes', 'Wes'])
@@ -27,11 +36,11 @@ class responses(commands.Cog):
         if ctx.author.id == 264192132791795723:
             await ctx.send("Did you know Pyro ball has 90% accuracy?")
         else:
-            await ctx.send('He doesn\'t make the monkeys, he just sells them')
+            await ctx.send("He doesn't make the monkeys, he just sells them")
 
     @commands.command(aliases=['bryce', 'bigcat', 'BigCat'])
     async def Bryce(self, ctx):
-            ctx.send("Bryce loves Gambit")
+            await ctx.send("Bryce loves Gambit")
 
     @commands.command(aliases=['zavala'])
     async def Zavala(self, ctx):
@@ -70,6 +79,9 @@ class responses(commands.Cog):
     async def mikey(self, ctx):
         await ctx.send("Wardcliff coil is OP")
 
+    @commands.command()
+    async def pitter(self, ctx):
+        await ctx.send("Pitter-patter let's get at 'er")
 
     @commands.command()
     async def help(self, ctx):
@@ -79,9 +91,9 @@ class responses(commands.Cog):
             colour = discord.Colour.blue()
         )
 
-        helpEmbed.set_footer(text= "Version 0.01, PreRelease")
-        helpEmbed.set_author(name = "Walleye Bot", icon_url='https://cdn.discordapp.com/attachments/430182611814711299/867533105904615484/profilepic.jpg')
-        helpEmbed.add_field(name="Help", value="This bot is for the use of Wes and his friends for jokes, discord moderation, and Destiny API access")
+        helpEmbed.set_footer(text= "Version 1.00, Release")
+        helpEmbed.set_author(name = "Walleye FT", icon_url='https://cdn.discordapp.com/attachments/430182611814711299/867533105904615484/profilepic.jpg')
+        helpEmbed.add_field(name="Help", value="This bot is for the use of Wes and his friends for jokes, discord moderation, Pokemon information gathering, and audio purposes")
         await ctx.send(embed=helpEmbed)
 
 def setup(client):
