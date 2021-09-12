@@ -2,6 +2,6 @@
 
 Hello! Welcome to the Repository for me, Wesley Blanco. This repository has two purposes, to show my coding experiences from both school and personal life and to maintain version control on my personal programs. In this repository there are two main files, Personal Projects and School Work. Personal Projects will consist of projects I have made for myself and my friends to enjoy while school work is programs I have had for school. I am primarily a C++ and Python programmer, but I have experience in Ruby, Scalla, Haskell and Prolog as well, and it is possible that this repository may contain one of those languages in the future. At this time, C++ and Python are the primary languages that will be in this Repository. 
 
-# Notice: 
+### Notice for Those not inquiring about me: 
 
 If you happened along this repository as a student and/or not someone who is inquiring about me, do not copy my School work code. This code is my own and using it in an academic situation is academic dishonesty. Do your own work. If you managed to find your way here and are interested in my personal work, such as Walleye Bot or the War card game, my instance of Walleye bot does not presently have a Join code on Discord, and therefore if you can manage to make Walleye Bot work on your own with your own Token, you may use Walleye Bot with my permission for whatever you so choose. War can be considered a free game download here as well and the code used for your own devices. 
