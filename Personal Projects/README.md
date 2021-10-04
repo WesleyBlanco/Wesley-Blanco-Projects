@@ -16,24 +16,17 @@ Each Project folder will hold the following
 
 ## Unnamed Morning Organizer Application (D) (Language TBD)
 
-This Project is a personal application that is in development. Its purpose is to be a program that launches on start up that allows me to launch applications and figure out other info for the day. 
+This Project is a personal application that is in development. Its purpose is to be a program that launches on start up that allows me to launch applications and figure out other info for the day. Likely in Python, but I may do this in C++ to learn UI in C++
 Application Launches:
-  * Steam
-  * RuneLite
+  * Steam (D)
   * Spotify (D)
   * Google Calendar Operation Program (D)
   
-
-## Calendar Operation Program (D) (Language TBD)
-
-This Project is another personal application that is not yet in development. Its purpose is to access a google account to read the calendar events for the day, week, or month and display them. It will also access the google calendar to set events for the future. This application may be packaged within the Morning Organizer Application. This program may be scrapped.
-
 
 ## Walleye Bot (py)
 
 This project is for a simple discord bot for my friends and I. It's purpose is likely to be ever changing, based on what friends request to be implimented. Currently its goals are as follows.
   * Functionality for Pokemon base stat information upon user commands
-  * Youtube Music and other Content broadcasted to a Discord voice call
   * Functionality for signaling for an embed that shows a in game and callout version of Destiny 2 PvP maps
   * Inside jokes between my friends and I
   * Basic Discord bot actions
